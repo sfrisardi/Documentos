@@ -46,7 +46,7 @@ public class CustomerController {
     }    
     
     @GetMapping("/accu")
-	public String getClima() {
+	public List<WeatherInfo> getClima() {
 		return weatherService.getWeather();
 	}
      
