@@ -38,6 +38,8 @@ Así mismo genere un get y post de un Customer que se guarda en memoria utilizan
 
 Saludos Sebastián!
 
+P.D: Se realizó una mejora para mostrar el resultado de accu y se agregó un junit test
+
 
 
 
